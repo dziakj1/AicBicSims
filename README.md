@@ -5,7 +5,8 @@ This is R and SAS code which was used to do the simulations in the tech report:
 Dziak, J. J., Coffman, D. L., Lanza, S. T., and Li, R. (2012). Sensitivity
 and specificity of information criteria (Methodology Center Technical Report 12-119).
 University Park, PA: The Methodology Center, The Pennsylvania State University. 
-Available at http://methodology.psu.edu/media/techreports/12-119.pdf .
+Available at http://methodology.psu.edu/media/techreports/12-119.pdf or 
+https://peerj.com/preprints/1103/.
 
 The simulation code for normal linear regression and latent class analysis was
 written by John Dziak at Pennsylvania State University.  The simulation code 
